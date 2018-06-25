@@ -2,114 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48dc7270-eec7-4263-881a-86699d4c4f0e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/2004/2004-03-08-daniel-boorstin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2005/2005-08-24-petroleum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2006/2006-07-21-hamlet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2006/2006-08-11-sound-and-fury.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2006/2006-09-27-chen-xingshen.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2010/2010-01-27-old.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2010/2010-07-15-economic-history.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2010/2010-10-22-gu-zhun.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2011/2011-02-18-sun-zhongshan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2011/2011-08-18-cooking-movement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2011/2011-12-01-keats.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2012/2012-05-13-huang-renyu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2012/2012-07-25-jiang-jingguo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2013/2013-02-28-jiang-jieshi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2013/2013-09-29-liang-shuming.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-01-27-beckett.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-01-27-beckett.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-02-04-atwood.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-02-04-atwood.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-02-14-juliette-drouet.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-02-14-juliette-drouet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-03-08-daniel-boorstin.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-03-08-daniel-boorstin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-05-03-biography.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-05-03-biography.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2004-12-11-orwell.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2004-12-11-orwell.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-02-12-almost-famous.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-02-12-almost-famous.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-03-03-la-follete.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-03-03-la-follete.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-03-21-haizi.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-03-21-haizi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-04-27-einstein.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-04-27-einstein.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-07-18-edmund-burke.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-07-18-edmund-burke.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-07-28-roman-holiday.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-07-28-roman-holiday.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-08-01-eternal-sunshine.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-08-01-eternal-sunshine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-08-27-yertle.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-08-27-yertle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-09-06-two-letters.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-09-06-two-letters.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-09-14-yan-fu.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-09-14-yan-fu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-09-26-zeng-guofan.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-09-26-zeng-guofan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-11-05-heresy.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-11-05-heresy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2005-11-08-ancient-roman.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2005-11-08-ancient-roman.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-01-10-qu-yuan.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-01-10-qu-yuan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-02-08-brief-history-of-england.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-02-08-brief-history-of-england.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-05-07-van-gogh.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-05-07-van-gogh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-05-11-hesse.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-05-11-hesse.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-05-25-calvino.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-05-25-calvino.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-05-27-v.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-05-27-v.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-06-03-undertaking.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-06-03-undertaking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-06-05-mugger.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-06-05-mugger.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-06-06-christopher.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-06-06-christopher.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-06-19-united-states.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-06-19-united-states.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-07-21-hamlet.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-07-21-hamlet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-07-29-matrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-07-29-matrix.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-08-11-sound-and-fury.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-08-11-sound-and-fury.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-08-29-invisible-cities.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-08-29-invisible-cities.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-10-18-goran-malmqvist.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-10-18-goran-malmqvist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-12-13-full-moon.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-12-13-full-moon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2006-12-15-wilde.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2006-12-15-wilde.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2007-01-01-luo-yihe.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2007-01-01-luo-yihe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2007-02-13-hu-shih.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2007-02-13-hu-shih.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2007-02-17-weak.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2007-02-17-weak.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2007-02-26-tang-degang.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2007-02-26-tang-degang.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2007-05-24-heroes.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2007-05-24-heroes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2008-04-24-fan-ye.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2008-04-24-fan-ye.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2008-06-01-potato.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2008-06-01-potato.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2008-07-29-stone-s-reader.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2008-07-29-stone-s-reader.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2008-09-07-li-hongzhang.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2008-09-07-li-hongzhang.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2008-09-22-lu-xun.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2008-09-22-lu-xun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2010-01-27-old.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2010-01-27-old.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2010-07-15-economic-history.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2010-07-15-economic-history.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2010-10-22-gu-zhun.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2010-10-22-gu-zhun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2011-02-05-juliu-river.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2011-02-05-juliu-river.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2011-02-18-sun-zhongshan.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2011-02-18-sun-zhongshan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2011-08-18-cooking-movement.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2011-08-18-cooking-movement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2011-12-01-keats.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2011-12-01-keats.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2012-04-13-hu-shih.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2012-04-13-hu-shih.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2012-05-13-huang-renyu.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2012-05-13-huang-renyu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2012-07-25-jiang-jingguo.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2012-07-25-jiang-jingguo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2013-02-28-jiang-jieshi.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2013-02-28-jiang-jieshi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/2013-09-29-liang-shuming.md" beforeDir="false" afterPath="$PROJECT_DIR$/bookone/2013-09-29-liang-shuming.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booktwo/index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/bulma.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/collapse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/expand.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/next-disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/previous-disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/previous.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/size.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/toc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/css/up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/assets/js/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/author.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/disqus.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/oceandeep/page.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/assets/css/app.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/assets/css/app.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/assets/css/app.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/breadcrumb.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/chapters.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/foot.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/hero.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/main.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/nav.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/page.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/pre-next.template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ryf/script.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -123,16 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="373">
-                <caret line="187" column="48" lean-forward="true" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="48" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cover.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/images/cover.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="book_cover.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/images/book_cover.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="chapters.yml" pinned="false" current-in-tab="false">
@@ -150,6 +53,7 @@
     <findStrings>
       <find>:</find>
       <find>$PROJECT_DIR$/docs/</find>
+      <find>.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>* [</replace>
@@ -158,6 +62,9 @@
       <replace>](</replace>
       <replace>* [](</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,9 +77,7 @@
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
     <exe-path />
@@ -184,16 +89,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-35" />
-    <option name="y" value="-1054" />
+    <option name="x" value="30" />
+    <option name="y" value="-1057" />
     <option name="width" value="1629" />
     <option name="height" value="1027" />
   </component>
@@ -244,7 +144,7 @@
               <item name="road" type="b2602c69:ProjectViewProjectNode" />
               <item name="road" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="2012" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,28 +194,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529912143540</updated>
-      <workItem from="1529912144851" duration="5750000" />
+      <workItem from="1529912144851" duration="6321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5750000" />
+    <option name="totallyTimeSpent" value="6321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-35" y="-1054" width="1629" height="1027" extended-state="0" />
+    <frame x="30" y="-1057" width="1629" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33105165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23708774" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,94 +231,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-05-17-fate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="9" selection-start-column="2" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-06-05-lazi.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="2" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-08-08-lyrics.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-08-11-coal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="2" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-08-22-ke.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" lean-forward="true" selection-start-column="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2005/2005-09-21-wang-zuoliang.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" lean-forward="true" selection-start-column="2" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2006/2006-01-20-faulkner.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="5" lean-forward="true" selection-start-column="2" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2006/2006-03-02-translator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="2" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/2006/2006-03-13-world-is-flat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" lean-forward="true" selection-start-column="2" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/2006/2006-04-30-carriage-return.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -800,15 +612,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/docs/2012/2012-09-03-linus-torvalds.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="373">
-            <caret line="187" column="48" lean-forward="true" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="48" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/2012/2012-06-21-carnegie.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/2012/2012-07-25-jiang-jingguo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="12" lean-forward="true" selection-start-column="2" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/2013/2013-02-28-jiang-jieshi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="18" lean-forward="true" selection-start-column="2" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/2013/2013-11-3-ko-wen-je.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="12" lean-forward="true" selection-start-column="2" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/2013/2013-09-29-liang-shuming.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" lean-forward="true" selection-start-column="2" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/cover.origin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/images/book_cover.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
